@@ -4,3 +4,7 @@ Product: The Inventory products that organization sell.
 Customer: The buyers of products from organiztion.
 Sales Order: The process of selling product to customer. Each sales order consist of one or more order lines.
 Order Lines: The actual products and quantities that a customer need to buy.
+
+
+It's generate executable jar do:
+mvn clean install
